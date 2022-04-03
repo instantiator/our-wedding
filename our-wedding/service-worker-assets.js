@@ -57,7 +57,7 @@
       "url": "our-wedding\/icon-512.png"
     },
     {
-      "hash": "sha256-uFfUUG3lhkIyZ7T8OmDUgnMwqSv2S2XzIggIW0fVewM=",
+      "hash": "sha256-Dh+tOh0E2liBXqpVNAZCdFC1y81Fa+yn16haEe0dt0o=",
       "url": "our-wedding\/index.html"
     },
     {
@@ -353,5 +353,5 @@
       "url": "our-wedding\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "S2TGmj2t"
+  "version": "LP3G+y2k"
 };
