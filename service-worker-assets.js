@@ -57,7 +57,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-2GrxyziUQ42Z\/qNrNPJ8P719+bjgg3EAEpY132NJwSk=",
+      "hash": "sha256-Bx66kaPXozcsmYSUGCZaBGdxOHXoibjPkMLPoYHKxDw=",
       "url": "index.html"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/dotnet.5.0.15.js"
     },
     {
-      "hash": "sha256-ptdX6wKNiWOmCnKTs\/JvKgc4xjCWU1niDwrzKs4FLNE=",
+      "hash": "sha256-4iUD1eOw8sh+0\/52iO9USEiwMlSN6yMIt9oOwITfrkM=",
       "url": "WeddingApp.UI.styles.css"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-F7sCUPWbF6ENiltp5T6emymLaMUUTQlT0wiX5zcRLWw=",
+      "hash": "sha256-hS4H1Zsh7m\/fwLUWNJrl\/jFCd0O\/NfFOb6oHU66KSk4=",
       "url": "_framework\/WeddingApp.UI.dll"
     },
     {
@@ -285,7 +285,7 @@
       "url": "_framework\/System.Private.Runtime.InteropServices.JavaScript.dll"
     },
     {
-      "hash": "sha256-GtZ8PBkxbKmkmRbTwhyVNrMqo1JuGdMKLdtPkk1gn5w=",
+      "hash": "sha256-lywgclTsVDayuRYqbW6331qErFVxJMRVtWSRzPIvadM=",
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
@@ -357,7 +357,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-iTCmGrbfKF0A0B6ASHZFXyyWskhuaww8\/rjNDpMOYL4=",
+      "hash": "sha256-1rRVThTwBH0xFbyvqCozpgTZE56fIChECTPpbr+qO30=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -365,5 +365,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "WVd5\/H39"
+  "version": "8cp\/Hj\/c"
 };

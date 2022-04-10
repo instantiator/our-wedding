@@ -4,9 +4,8 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Big Day</title>
-    <!--<base href="/our-wedding/" />-->
-    <base href="/" />
+    <title>Loading...</title>
+    <base href="/" /><!--<base href="/our-wedding/" />-->
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
     <link href="WeddingApp.UI.styles.css" rel="stylesheet" />
@@ -24,6 +23,11 @@
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
+    <script>
+        // supporting function to set title from blazor
+        setTitle = (title) => {document.title = title; };
+        setTitle(location.hostname);
+    </script>
 </body>
 
 </html>
