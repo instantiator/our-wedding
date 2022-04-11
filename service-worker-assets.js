@@ -181,7 +181,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-hS4H1Zsh7m\/fwLUWNJrl\/jFCd0O\/NfFOb6oHU66KSk4=",
+      "hash": "sha256-vUAZ2j6XSKHD10nFYij4haFCvH6vm0Bs2cP0jk5+QTw=",
       "url": "_framework\/WeddingApp.UI.dll"
     },
     {
@@ -261,7 +261,7 @@
       "url": "_framework\/System.Linq.Expressions.dll"
     },
     {
-      "hash": "sha256-bJhUm5QmP\/zFciW6ziHgQLQvwTK0cueK1U\/hv1nFwRM=",
+      "hash": "sha256-WvDFF04AdCb9Ps3mN1LlxouJibcdpd5Tn7+1rXS8lzg=",
       "url": "_framework\/System.Linq.dll"
     },
     {
@@ -357,7 +357,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-1rRVThTwBH0xFbyvqCozpgTZE56fIChECTPpbr+qO30=",
+      "hash": "sha256-U9qjNjINW2Rti6rHq3wGKHNKwMpaceFd3vHWwfIaXnM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -365,5 +365,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "8cp\/Hj\/c"
+  "version": "JAU8zskv"
 };
