@@ -1,13 +1,13 @@
 ﻿{
-  "name": "Big Day",
-  "short_name": "Big Day",
+  "name": "Laura and Lewis's Wedding",
+  "short_name": "L&L Wedding",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "app-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }

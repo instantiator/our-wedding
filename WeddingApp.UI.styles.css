@@ -1,3 +1,14 @@
+/* /Pages/Puzzles.razor.rz.scp.css */
+div.puzzle-icons-container[b-zr483qku0z] {
+    padding-top: 5px;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+    align-content: space-around;
+    gap: 10px;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-o6i0l6zj2t] {
     position: relative;
@@ -134,4 +145,40 @@
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
+}
+/* /Shared/PuzzleIcon.razor.rz.scp.css */
+span.good[b-dsnxhc8irb] {
+    color: green;
+}
+
+span.bad[b-dsnxhc8irb] {
+    color: red;
+}
+
+div.puzzle-icon[b-dsnxhc8irb] {
+    display: inline-block;
+    width: 25%;
+}
+
+div.puzzle-icon-solved[b-dsnxhc8irb] {
+    box-shadow: 0px 7px 14px green;
+}
+
+div.puzzle-icon-unsolved[b-dsnxhc8irb] {
+    box-shadow: 0px 7px 14px red;
+}
+
+img.puzzle-icon-image[b-dsnxhc8irb] {
+    width: 100%;
+    height: auto;
+}
+
+div.puzzle-icon-image-placeholder[b-dsnxhc8irb] {
+    width: 100%;
+    height: auto;
+    background-color: gray;
+}
+
+div.puzzle-icon-text[b-dsnxhc8irb] {
+
 }
