@@ -321,7 +321,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-x3jJUORuX0FWNS8hCU27AnX4NuvRQjzjosITjQVumzc=",
+      "hash": "sha256-Al5TWjM4Yhkwh6FR\/mvFO4QSegwfTY1fAPU0STLy6mo=",
       "url": "index.html"
     },
     {
@@ -337,5 +337,5 @@
       "url": "sample-data\/default-variables.csv"
     }
   ],
-  "version": "F1qgoXmP"
+  "version": "OkpE9+2w"
 };
