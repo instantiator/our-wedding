@@ -182,3 +182,39 @@ div.puzzle-icon-image-placeholder[b-dsnxhc8irb] {
 div.puzzle-icon-text[b-dsnxhc8irb] {
 
 }
+/* /Shared/RenderCluedl.razor.rz.scp.css */
+span.good[b-s209eai82n] {
+    color: green;
+}
+
+span.bad[b-s209eai82n] {
+    color: red;
+}
+
+div.puzzle-icon[b-s209eai82n] {
+    display: inline-block;
+    width: 25%;
+}
+
+div.puzzle-icon-solved[b-s209eai82n] {
+    box-shadow: 0px 7px 14px green;
+}
+
+div.puzzle-icon-unsolved[b-s209eai82n] {
+    box-shadow: 0px 7px 14px red;
+}
+
+img.puzzle-icon-image[b-s209eai82n] {
+    width: 100%;
+    height: auto;
+}
+
+div.puzzle-icon-image-placeholder[b-s209eai82n] {
+    width: 100%;
+    height: auto;
+    background-color: gray;
+}
+
+div.puzzle-icon-text[b-s209eai82n] {
+
+}
