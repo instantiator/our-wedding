@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-BNmPn7TXbtTY1AqWHnhSLiJ0vFF23wbH8dZBoq4syiU=",
+      "hash": "sha256-i0XlQvSHihc1h8BF\/+0c5s43RInYL+BePNENJYgaDNw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -261,7 +261,7 @@
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-MFy1Q2QDizX9+LG4iMUdGbaTdIRcBBBiTOxjChQCX8o=",
+      "hash": "sha256-4hllKTreFdU2r82N\/r7GOpOaaipfIh9c1Ldilfsvimg=",
       "url": "_framework\/WeddingApp.UI.dll"
     },
     {
@@ -537,5 +537,5 @@
       "url": "sample-data\/default-variables.csv"
     }
   ],
-  "version": "tlVItOwH"
+  "version": "KxFL5Imd"
 };
