@@ -269,7 +269,7 @@
       "url": "WeddingApp.UI.styles.css"
     },
     {
-      "hash": "sha256-\/Lz5ZGCsZlJB7dBRMBVECxZm6e6oT189OkjgQ1HT9Kc=",
+      "hash": "sha256-nk84mgNLowhLFdKeN5gJraSIDM8J\/\/eV4f9MEpwVKf4=",
       "url": ".DS_Store"
     },
     {
@@ -521,6 +521,50 @@
       "url": "icon-512.png"
     },
     {
+      "hash": "sha256-mE+airGQyXPbLvrarorpyGLoQCG9ii2tuD\/l2i07aWo=",
+      "url": "images\/boxes.jpeg"
+    },
+    {
+      "hash": "sha256-CwBK93Jqc8WKcQLzV8mtlshLricL7UIM3XLufLggGpI=",
+      "url": "images\/clarbert-map.png"
+    },
+    {
+      "hash": "sha256-THp4AL\/ba2X7fLrKPrgsQL0AM2CKU5G6wqUE7+AanA4=",
+      "url": "images\/invite-cover.png"
+    },
+    {
+      "hash": "sha256-bGayAJZxJO7fUu09VJ6KxprhqxoYFVV+z2Fh\/VmMi1U=",
+      "url": "images\/Laura-Lewis-small.png"
+    },
+    {
+      "hash": "sha256-og\/DMKTHILjTFv974Zszk0V5hfU4NaTKAMWemZBoFqE=",
+      "url": "images\/lighthouse-icon.png"
+    },
+    {
+      "hash": "sha256-WLw+UV8U0hk5ACB2rd3E0ZxhI2qWNBrmcEwPCHRgycM=",
+      "url": "images\/morse.png"
+    },
+    {
+      "hash": "sha256-pktQROOTDc7Lv+zwWiOddVLhjlP3AkDQzaXcUd5yb9c=",
+      "url": "images\/olympic-rings.jpeg"
+    },
+    {
+      "hash": "sha256-kCipLdqBL3K18jiRk5feVA+1wv9LDWcwSo\/\/hom7NiA=",
+      "url": "images\/pieminister-logo.png"
+    },
+    {
+      "hash": "sha256-bwETlGtoIX4474ZhAochsD6+IrTNWMqsm\/oAwqEZStU=",
+      "url": "images\/ripples.jpeg"
+    },
+    {
+      "hash": "sha256-FEB6kz5CHT0JtQVwtWNQTj651GhRcy2GG9HYxawId5w=",
+      "url": "images\/sunset.jpeg"
+    },
+    {
+      "hash": "sha256-BcsCIc8WAptWl97VUIPcgisZQL3z8nQ4z\/pbBkkfslQ=",
+      "url": "images\/the-fiction.jpeg"
+    },
+    {
       "hash": "sha256-B6bzm54a8lR+\/WTRtnfV3W3CrLYnE2qUnZG0rLJu+l8=",
       "url": "index.html"
     },
@@ -537,5 +581,5 @@
       "url": "sample-data\/default-variables.csv"
     }
   ],
-  "version": "KxFL5Imd"
+  "version": "3Qk+9S0O"
 };
